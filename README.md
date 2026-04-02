@@ -26,7 +26,7 @@
 
 ## Project Overview
 
-This project analyses pharmacy sales data across four Nigerian regions — **Western, Southern, Northern, and Eastern Nigeria** — to uncover sales performance trends, regional health patterns, and drug demand seasonality. The analysis spans approximately 17 months and covers four drug categories sold by five sales representatives across multiple outlets.
+This project analyses pharmacy sales data across four Nigerian regions : **Western, Southern, Northern, and Eastern Nigeria** to uncover sales performance trends, regional health patterns, and drug demand seasonality. The analysis spans approximately 17 months and covers four drug categories sold by five sales representatives across multiple outlets.
 
 The dashboard was built entirely in **Microsoft Excel**, featuring interactive slicers for filtering by year and sales rep, enabling dynamic exploration of the data.
 
@@ -76,7 +76,7 @@ Monthly revenue tells a clear story of two distinct performance phases:
 | **High Season** | Jan – May | $344K – $514K/month | Strong and rising demand |
 | **Low Season** | Jun – Dec | $203K – $236K/month | Sharp drop, relatively flat |
 
-- **May** is the peak revenue month at **$514,282** — 2.5× the July trough of **$203,434**
+- **May** is the peak revenue month at **$514,282**  2.5× the July trough of **$203,434**
 - Revenue spikes in **February–May** before collapsing sharply in **June**, suggesting a seasonal demand cliff likely tied to the end of the cold/flu and harmattan season
 - The trendline shows a **downward slope** over the full period, though this is heavily skewed by the mid-year seasonal dip rather than structural decline
 
@@ -135,7 +135,7 @@ Monthly revenue tells a clear story of two distinct performance phases:
 | Eastern Nigeria | ~$880K | **25%** |
 | Western Nigeria | ~$800K | **22%** |
 
-The regional revenue split is notably **balanced** — no single region dominates, suggesting the sales strategy is geographically diversified. Southern and Northern Nigeria hold a slight edge, collectively accounting for 53% of revenue.
+The regional revenue split is notably **balanced** no single region dominates, suggesting the sales strategy is geographically diversified. Southern and Northern Nigeria hold a slight edge, collectively accounting for 53% of revenue.
 
 ---
 
@@ -152,10 +152,10 @@ The regional revenue split is notably **balanced** — no single region dominate
 
 **Regional Health Signatures:**
 
--  **Western Nigeria** — Highest demand for **Cardiovascular** and **Diabetes Care** drugs. This likely reflects urban lifestyle factors (sedentary work, processed diets) and better healthcare access that enables chronic disease diagnosis and treatment
--  **Southern Nigeria** — Leads significantly in **Pain Relief** consumption. This could indicate higher rates of musculoskeletal conditions, labour-intensive occupations, or greater accessibility of over-the-counter analgesics
--  **Northern Nigeria** — Highest **Antibiotic** usage across all regions. This is consistent with epidemiological data linking dust exposure (harmattan), higher rates of respiratory and gastrointestinal infections, and potentially looser antibiotic prescription norms in the region
--  **Eastern Nigeria** — Shows the most **balanced distribution** across all four drug categories, without extreme spikes in any direction, suggesting a more diversified health burden or uniform prescription practices
+-  **Western Nigeria** Highest demand for **Cardiovascular** and **Diabetes Care** drugs. This likely reflects urban lifestyle factors (sedentary work, processed diets) and better healthcare access that enables chronic disease diagnosis and treatment
+-  **Southern Nigeria** Leads significantly in **Pain Relief** consumption. This could indicate higher rates of musculoskeletal conditions, labour-intensive occupations, or greater accessibility of over-the-counter analgesics
+-  **Northern Nigeria** Highest **Antibiotic** usage across all regions. This is consistent with epidemiological data linking dust exposure (harmattan), higher rates of respiratory and gastrointestinal infections, and potentially looser antibiotic prescription norms in the region
+-  **Eastern Nigeria** Shows the most **balanced distribution** across all four drug categories, without extreme spikes in any direction, suggesting a more diversified health burden or uniform prescription practices
 
 ---
 
@@ -172,7 +172,7 @@ The regional revenue split is notably **balanced** — no single region dominate
 | Jul–Dec | ~500–1,000 | ~700–1,300 | ~300–1,100 | ~350–1,100 | Demand stabilises at lower levels |
 
 **Key Seasonal Observations:**
-- **Antibiotics** exhibit the most dramatic seasonality — demand is nearly **5× higher in April/May than in June** (2,038 vs. 381 units). This strongly correlates with the end of the harmattan/dry season when respiratory infections peak
+- **Antibiotics** exhibit the most dramatic seasonality demand is nearly **5× higher in April/May than in June** (2,038 vs. 381 units). This strongly correlates with the end of the harmattan/dry season when respiratory infections peak
 - **Cardiovascular drugs** maintain the most **stable year-round demand**, consistent with the chronic, non-seasonal nature of heart conditions
 - **Pain Relief** spikes sharply in **March** (2,206 units) — possibly linked to peak agricultural activity, physical labour season, or end-of-harmattan conditions
 - **Diabetes Care** shows a notable dip in December (317 units), which may reflect patient holiday non-compliance or supply distribution gaps at year-end
@@ -182,13 +182,13 @@ The regional revenue split is notably **balanced** — no single region dominate
 ## Key Insights & Interpretations
 
 ### 1. Seasonality is the Dominant Revenue Driver
-The ~2.5× swing between peak (May) and trough (July) months means that **seasonality — not sales rep performance or regional factors — is the primary driver of revenue volatility**. Planning inventory, staffing, and promotions around this cycle is critical.
+The ~2.5× swing between peak (May) and trough (July) months means that **seasonality not sales rep performance or regional factors is the primary driver of revenue volatility**. Planning inventory, staffing, and promotions around this cycle is critical.
 
 ### 2. Antibiotic Misuse Risk in Northern Nigeria
 Northern Nigeria's disproportionately high antibiotic demand warrants attention. While some of this is driven by legitimate infection burden (dust, fomites), it also raises the possibility of **antibiotic overprescription or self-medication**. This is a public health risk beyond the commercial opportunity.
 
 ### 3. Western Nigeria is the Chronic Disease Hub
-The concentration of cardiovascular and diabetes drug demand in Western Nigeria — the most urbanised region — reflects a growing non-communicable disease (NCD) burden. This region should be the **strategic priority for chronic disease drug stocking and specialist rep deployment**.
+The concentration of cardiovascular and diabetes drug demand in Western Nigeria the most urbanised region reflects a growing non-communicable disease (NCD) burden. This region should be the **strategic priority for chronic disease drug stocking and specialist rep deployment**.
 
 ### 4. Pain Relief is the Margin Champion
 Despite ranking last in revenue, Pain Relief consistently delivers the **best profit margins (8.2%)**. Sales reps (Laila Hussein, Jane Akins) who skew toward this category achieve better efficiency. A deliberate push to grow Pain Relief sales could improve overall profitability without proportional cost increases.
@@ -235,4 +235,4 @@ A ~42% revenue gap between the top and bottom sales reps, combined with uniform 
 
 ---
 
-*Analysis by Ike Nwaogu. | Data covers Nigerian pharmacy transactions from January 2024 to May 2025*
+*Analysis by Ike Nwaogu. Data covers Nigerian pharmacy transactions from January 2024 to May 2025*
