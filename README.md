@@ -174,7 +174,7 @@ The regional revenue split is notably **balanced** no single region dominates, s
 **Key Seasonal Observations:**
 - **Antibiotics** exhibit the most dramatic seasonality demand is nearly **5× higher in April/May than in June** (2,038 vs. 381 units). This strongly correlates with the end of the harmattan/dry season when respiratory infections peak
 - **Cardiovascular drugs** maintain the most **stable year-round demand**, consistent with the chronic, non-seasonal nature of heart conditions
-- **Pain Relief** spikes sharply in **March** (2,206 units) — possibly linked to peak agricultural activity, physical labour season, or end-of-harmattan conditions
+- **Pain Relief** spikes sharply in **March** (2,206 units) possibly linked to peak agricultural activity, physical labour season, or end-of-harmattan conditions
 - **Diabetes Care** shows a notable dip in December (317 units), which may reflect patient holiday non-compliance or supply distribution gaps at year-end
 
 ---
