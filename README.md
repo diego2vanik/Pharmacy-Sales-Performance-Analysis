@@ -215,7 +215,7 @@ A ~42% revenue gap between the top and bottom sales reps, combined with uniform 
 ## Dashboard Previews
 
 ### Dashboard 1: Sales Performance Analysis
-![Sales Performance Dashboard](dashboard_preview_1.png)
+![Sales Performance Dashboard](Sales Performance Dashboard.png)
 
 *Features: Revenue trend line, drug category bar chart, profit-quantity scatter plot, rep performance bar chart, regional revenue donut chart*
 
