@@ -1,11 +1,11 @@
-#  Pharmacy Sales Performance & Regional Health Trend Analysis
+# Pharmacy Sales Performance & Regional Health Trend Analysis
 
 > **Dataset:** Nigerian Pharmacy Sales | **Period:** January 2024 – May 2025 | **Records:** 503 transactions  
 > **Tools Used:** Microsoft Excel (Power Query, Pivot Tables, Dashboard Visualizations)
 
 ---
 
-##  Table of Contents
+## Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [Dataset Description](#dataset-description)
@@ -26,7 +26,7 @@
 
 ## Project Overview
 
-This project analyses pharmacy sales data across four Nigerian regions : **Western, Southern, Northern, and Eastern Nigeria** to uncover sales performance trends, regional health patterns, and drug demand seasonality. The analysis spans approximately 17 months and covers four drug categories sold by five sales representatives across multiple outlets.
+This project analyses pharmacy sales data across four Nigerian regions **Western, Southern, Northern, and Eastern Nigeria** to uncover sales performance trends, regional health patterns, and drug demand seasonality. The analysis spans approximately 17 months and covers four drug categories sold by five sales representatives across multiple outlets.
 
 The dashboard was built entirely in **Microsoft Excel**, featuring interactive slicers for filtering by year and sales rep, enabling dynamic exploration of the data.
 
@@ -76,7 +76,7 @@ Monthly revenue tells a clear story of two distinct performance phases:
 | **High Season** | Jan – May | $344K – $514K/month | Strong and rising demand |
 | **Low Season** | Jun – Dec | $203K – $236K/month | Sharp drop, relatively flat |
 
-- **May** is the peak revenue month at **$514,282**  2.5× the July trough of **$203,434**
+- **May** is the peak revenue month at **$514,282** — 2.5× the July trough of **$203,434**
 - Revenue spikes in **February–May** before collapsing sharply in **June**, suggesting a seasonal demand cliff likely tied to the end of the cold/flu and harmattan season
 - The trendline shows a **downward slope** over the full period, though this is heavily skewed by the mid-year seasonal dip rather than structural decline
 
@@ -135,7 +135,7 @@ Monthly revenue tells a clear story of two distinct performance phases:
 | Eastern Nigeria | ~$880K | **25%** |
 | Western Nigeria | ~$800K | **22%** |
 
-The regional revenue split is notably **balanced** no single region dominates, suggesting the sales strategy is geographically diversified. Southern and Northern Nigeria hold a slight edge, collectively accounting for 53% of revenue.
+The regional revenue split is notably **balanced**  no single region dominates, suggesting the sales strategy is geographically diversified. Southern and Northern Nigeria hold a slight edge, collectively accounting for 53% of revenue.
 
 ---
 
@@ -152,10 +152,10 @@ The regional revenue split is notably **balanced** no single region dominates, s
 
 **Regional Health Signatures:**
 
--  **Western Nigeria** Highest demand for **Cardiovascular** and **Diabetes Care** drugs. This likely reflects urban lifestyle factors (sedentary work, processed diets) and better healthcare access that enables chronic disease diagnosis and treatment
--  **Southern Nigeria** Leads significantly in **Pain Relief** consumption. This could indicate higher rates of musculoskeletal conditions, labour-intensive occupations, or greater accessibility of over-the-counter analgesics
--  **Northern Nigeria** Highest **Antibiotic** usage across all regions. This is consistent with epidemiological data linking dust exposure (harmattan), higher rates of respiratory and gastrointestinal infections, and potentially looser antibiotic prescription norms in the region
--  **Eastern Nigeria** Shows the most **balanced distribution** across all four drug categories, without extreme spikes in any direction, suggesting a more diversified health burden or uniform prescription practices
+- 🏙️ **Western Nigeria** — Highest demand for **Cardiovascular** and **Diabetes Care** drugs. This likely reflects urban lifestyle factors (sedentary work, processed diets) and better healthcare access that enables chronic disease diagnosis and treatment
+- 🌿 **Southern Nigeria** — Leads significantly in **Pain Relief** consumption. This could indicate higher rates of musculoskeletal conditions, labour-intensive occupations, or greater accessibility of over-the-counter analgesics
+- 🌬️ **Northern Nigeria** — Highest **Antibiotic** usage across all regions. This is consistent with epidemiological data linking dust exposure (harmattan), higher rates of respiratory and gastrointestinal infections, and potentially looser antibiotic prescription norms in the region
+- ⚖️ **Eastern Nigeria** — Shows the most **balanced distribution** across all four drug categories, without extreme spikes in any direction, suggesting a more diversified health burden or uniform prescription practices
 
 ---
 
@@ -214,24 +214,25 @@ A ~42% revenue gap between the top and bottom sales reps, combined with uniform 
 
 ## Dashboard Previews
 
-### Dashboard 1: Sales Performance Analysis
-![Sales Performance Dashboard](Sales Performance Dashboard.png)
+### Dashboard 1 — Sales Performance Analysis
+![Sales Performance Dashboard](dashboard_preview_1.png)
 
 *Features: Revenue trend line, drug category bar chart, profit-quantity scatter plot, rep performance bar chart, regional revenue donut chart*
 
-### Dashboard 2: Monthly & Regional Health Trend
+### Dashboard 2 — Monthly & Regional Health Trend
 ![Health Trend Dashboard](dashboard_preview_2.png)
 
 *Features: Seasonal drug demand table by month, regional drug consumption breakdown, annotated insights panel*
 
-##  Tools & Techniques Used
+---
+
+## Tools & Techniques Used
 
 - **Microsoft Excel** — Data cleaning, Power Query transformations
 - **Pivot Tables** — Aggregations by region, month, category, and sales rep
 - **Excel Charts** — Line chart (revenue trend), Bar charts (category/rep performance), Scatter plot (quantity vs. profit), Donut chart (regional share)
 - **Slicers** — Interactive filtering by Year and Sales Rep
 - **Conditional Formatting** — KPI callout cards with YoY comparison indicators
-
 
 ---
 
