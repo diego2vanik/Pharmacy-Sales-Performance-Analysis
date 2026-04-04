@@ -152,10 +152,10 @@ The regional revenue split is notably **balanced**  no single region dominates, 
 
 **Regional Health Signatures:**
 
-- 🏙️ **Western Nigeria** — Highest demand for **Cardiovascular** and **Diabetes Care** drugs. This likely reflects urban lifestyle factors (sedentary work, processed diets) and better healthcare access that enables chronic disease diagnosis and treatment
-- 🌿 **Southern Nigeria** — Leads significantly in **Pain Relief** consumption. This could indicate higher rates of musculoskeletal conditions, labour-intensive occupations, or greater accessibility of over-the-counter analgesics
-- 🌬️ **Northern Nigeria** — Highest **Antibiotic** usage across all regions. This is consistent with epidemiological data linking dust exposure (harmattan), higher rates of respiratory and gastrointestinal infections, and potentially looser antibiotic prescription norms in the region
-- ⚖️ **Eastern Nigeria** — Shows the most **balanced distribution** across all four drug categories, without extreme spikes in any direction, suggesting a more diversified health burden or uniform prescription practices
+- **Western Nigeria** — Highest demand for **Cardiovascular** and **Diabetes Care** drugs. This likely reflects urban lifestyle factors (sedentary work, processed diets) and better healthcare access that enables chronic disease diagnosis and treatment
+- **Southern Nigeria** — Leads significantly in **Pain Relief** consumption. This could indicate higher rates of musculoskeletal conditions, labour-intensive occupations, or greater accessibility of over-the-counter analgesics
+- **Northern Nigeria** — Highest **Antibiotic** usage across all regions. This is consistent with epidemiological data linking dust exposure (harmattan), higher rates of respiratory and gastrointestinal infections, and potentially looser antibiotic prescription norms in the region
+- **Eastern Nigeria** — Shows the most **balanced distribution** across all four drug categories, without extreme spikes in any direction, suggesting a more diversified health burden or uniform prescription practices
 
 ---
 
